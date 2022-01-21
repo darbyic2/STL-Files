@@ -6,4 +6,4 @@ I decided to keep these in my own repository as I have had difficulty re-finding
 Either the web page no longer existed or the design had since been modified in a way that did not suit me,
 or I just plain couldn't find it again in amongst the mass of similar items.
 
-Where I remembered, I have included a text file containing the URL of the original source of the files.
+Where I remembered, I have included a README.md file containing the URL of the original source of the files.
